@@ -2,24 +2,25 @@
 Repositório do desafio de carreira M02
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
-- Gestão de tempo
-- Git básico
-- Introdução a TypeScript
+- Funções
+- Tipos de Dados 2
+- Gestão de Tempo
+- Tipos Utilitários
 - Métodos de strings
-- Métodos de arrays
+- Currículo e Carta de Apresentação
+- Métodos de arrays 1, 2, 3
+- LinkedIn: Primeiros Passos
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-- Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
-- TypeScript é uma linguagem de programação relacionada ao JavaScript.
-- Métodos de strings são maneiras de manipular texto em programação.
+- Eu só sei qual é  o motivo de usar funções no código.
+- Tipos de dados eu sei oque foi passado anteriormente, strings, number, boolean, além dos conceitos dos 3 tipos de variáveis (var, let e const).
+- Sobre gestão do tempo eu ja sábia uma coisa ou outra. Já sabia sobre a definição de prioridades, planejamento das atividades para melhor organização e alguns métodos de estudo como pomodoro e kanban.
+- Sobre tipos utilitários eu ainda não sei nada.
+- Não sei nada ainda, não sei sobre oque se trata métodos de string. Imagino que deve ser formas de manipular Strings mais facilmente ou até mesmo formas mais produtivas de usar strings.
+- Sobre Currículo eu sei muito pouco, sei que existem IA's que fazem uma filtragem no nosso currículo antes dele ser análisado por uma pessoa real, portanto é importante seguir uma série de passos para o currículo ficar aceitável e chegar até uma pessoa real, porém ainda não sei como fazer isso.
+- Ainda não sei nada sobre métodos de Arrays, porém imagino que deve ser algo parecido com oque suponho métodos de strings, só que com Arrays.
+- Eu não sei nada sobre a organização de um LinkedIn, meu LinkedIn no momento está uma bagunça.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
