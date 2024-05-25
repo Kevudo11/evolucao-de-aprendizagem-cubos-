@@ -24,12 +24,14 @@ Repositório do desafio de carreira M02
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?
-- Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
-- Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-- Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
-- Quero saber o que são métodos de arrays.
+- Como usar funções na prática e usar elas para facilitar no desenvolvimento e otimização dos códigos.
+- Quero entender qual o próximo nivel de tipos dos dados e como posso usar na prática.
+- Pretendo aprender como gerir melhor o meu tempo e descobrir ferramentas que possam me auxiliar na minha produtividade.
+- Quero descobrir oque são tipos utilitários.
+- Gostaria de aprender oque são métodos de strings.
+- Quero saber como chamar atenção do recrutador e facilitar o meu destaque em plataformas de busca de emprego.
+- Quero descobrir oque são métodos de arrays e espero que possam auxiliar no desenvolvimento dos meus códigos.
+- Gostaria de saber como organizar o meu LinkedIn e deixá-lo mais atrativo para recrutadores e empresas que possam ter interesse em mim.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
