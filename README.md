@@ -35,4 +35,22 @@ Repositório do desafio de carreira M02
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- 
+- Aprendi como usar as funções no meu código para facilitar no desenvolvimento e evitar repetir certas partes do código. Também aprendi como usar elas usando Typescript.
+
+- Aprendi como personalizar os tipos que usarei nos meus códigos de diversas maneiras, abrindo um leque de opções para estruturar e proteger meu código de erros.
+
+- Aprendi a gerir melhor meu tempo, melhorando minha mentalidade e usando algumas ferramentas que auxiliam na minha produtividade, assim me dando mais tempo para realizar minhas atividades do dia a dia.
+
+- Aprendi algumas 'ferramentas' que me ajudam muito a manipular tipos ja existentes para certas situações, sem que eu precise criar varios tipos e sujar meu código
+
+- Aprendi como manipular as strings do código, me ajudando caso eu precise buscar algum caractere especifico dentro de algum conjunto de strings ou fazer validações.
+
+- Aprendi como melhorar meu curriculo e adaptar ele de acordo com diferentes tipos de vagas, aprendendo a analisar oque a empresa precisa para fazer a adaptação. Também aprendi dicas de como passar das IA's que analisam nosso curriculo em plataformas.
+
+- Assim como aprendi em metodos de strings, em metodos de Arrays 1,2 e 3 eu aprendi diversas formas de manipular os Arrays, encontrar oque preciso, retirar informações especificas de dentro da estrutura e como usalos na prática, tanto em Js como em Ts
+
+
+- Aprendi como organizar meu LinkedIn e procurar vagas, além de dicas para navegação dentro da plataforma para encontrar diretamente os recrutadores que procuram o meu perfil profissional.
+
+
+
